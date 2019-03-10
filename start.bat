@@ -1,2 +1,2 @@
 @echo off
-pm2 start AyanoBot.js
+pm2 start AyaroBot.js
